@@ -5,6 +5,7 @@ This is a car racing game developed in Python leveraging flexibility of Pygame. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
