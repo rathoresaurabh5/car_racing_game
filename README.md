@@ -63,6 +63,15 @@ car-racing-game/
 └── requirements.txt
 ```
 
+## Screenshots
+
+### Game Screenshot 1
+![Game Screenshot 1](https://github.com/rathoresaurabh5/car_racing_game/blob/main/game_screenshot_1.png)
+
+### Game Screenshot 2
+![Game Screenshot 2](https://github.com/rathoresaurabh5/car_racing_game/blob/main/game_screenshot_2.png)
+
+
 ## Dependencies
 
 - [Pygame](https://www.pygame.org/) - Library for creating video games and multimedia applications.
